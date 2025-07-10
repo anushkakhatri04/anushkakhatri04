@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there! 👋 I'm Anushka Khatri
 
-<!--
-**anushkakhatri04/anushkakhatri04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate **Full Stack Web Developer**
+✨ Crafting modern, scalable web apps using the **MERN Stack**
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 🌱 Currently sharpening my skills in full-stack development & system design  
+- 💬 Ask me about anything web — React, Node.js, MongoDB, Express, REST APIs  
+- 👩‍💻 Always eager to learn, build, and contribute
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages and Tools
+
+- 🟧 HTML, 🔵 CSS, 🟨 JavaScript
+- ⚛️ ReactJS, 🌐 NodeJS, 🚂 ExpressJS
+- 🍃 MongoDB, 💨 TailwindCSS, 🎨 Bootstrap, 🧩 Material UI
+- 🧰 Git, 🐙 GitHub, 🖥️ VS Code
+
+### 🌐 Connect with Me
+[LinkedIn]([https://www.linkedin.com/in/anushka-khatri/](https://www.linkedin.com/in/khatri-anushka)) •  
+[Portfolio]([https://your-portfolio-link.vercel.app](https://anushkakhatri-portfolio.vercel.app/)) 
+
+*Thanks for visiting! 😊*

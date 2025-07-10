@@ -16,7 +16,7 @@
 - 🧰 Git, 🐙 GitHub, 🖥️ VS Code
 
 ### 🌐 Connect with Me
-[LinkedIn]([https://www.linkedin.com/in/anushka-khatri/](https://www.linkedin.com/in/khatri-anushka)) •  
+[LinkedIn]([https://www.linkedin.com/in/anushka-khatri/](https://www.linkedin.com/in/khatri-anushka))   
 [Portfolio]([https://your-portfolio-link.vercel.app](https://anushkakhatri-portfolio.vercel.app/)) 
 
 *Thanks for visiting! 😊*
